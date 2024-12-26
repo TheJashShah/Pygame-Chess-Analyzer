@@ -1,4 +1,5 @@
 ENGINE_PATH = r"C:\Users\Jash\Downloads\stockfish-windows-x86-64-avx2\stockfish\stockfish-windows-x86-64-avx2.exe"
+# REPLACE WITH YOUR STOCKFISH ENGINE PATH.
 
 from stockfish import Stockfish
 

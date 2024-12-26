@@ -1,6 +1,3 @@
-'''
-rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR
-'''
 from piece import Piece
 
 def parse_fen(FEN):
